@@ -1,0 +1,113 @@
+
+body{
+	background-color: #ffcccc;
+}
+.header{
+	background-color: red;
+	width: 100%;
+	height: 100px;
+	padding: 5px;
+	border: 03px gray solid;
+	float: left;
+}
+
+.logo{
+	background-color: #ff9999;
+	width: 9%;
+	height: 100px;
+	float: left;
+}
+
+.menu{
+	background-color: #ffccff;
+	width: 70%;
+	height: 100px;
+	margin-left: 400px;
+}
+.banner{
+	background-color: #e6e6e6;
+	width: 100%;
+	height: 350px;
+	padding: 5px;
+	border: 03px #ffb3b3 solid;
+	float: left;
+}
+
+.box{
+	background-color: #e6e6ff;
+	width: 100%;
+	height: 300px;
+	
+	padding:5px;
+	border: 03px gray solid;
+	float: left;
+}
+
+.box1{
+	background-color: #80d4ff;
+	width: 16%;
+	height: 250px;
+	margin-top: 20px;
+	margin-left: 30px;
+	padding: 5px;
+	border: 03px gray solid;
+	float: left;
+}
+
+.box2{
+	background-color: #80d4ff;
+	width: 16%;
+	height: 250px;
+	margin-top: 20px;
+	margin-left: 100px;
+	padding: 5px;
+	border: 03px gray solid;
+	float: left;
+}
+
+.box3{
+	background-color: #80d4ff;
+	width: 16%;
+	height: 250px;
+	margin-top: 20px;
+	margin-left: 100px;
+	padding: 5px;
+	border: 03px gray solid;
+	float: left;		
+}
+
+.box4{
+	background-color: #80d4ff;
+	width: 16%;
+	height: 250px;
+	margin-top: 20px;
+	margin-left: 100px;
+	padding: 5px;
+	border: 03px gray solid;
+	float: left;
+}
+
+.about{
+	background-color: #004d3d;
+	width: 100%;
+	height: 300px;
+	padding:5px;
+	border: 03px #b3b3ff solid;
+	float: left;
+}
+.address{
+	background-color: #008066;
+	width: 30%;
+	height: 290px;
+	padding: 5px;
+	float: right;
+}
+
+.fotter{
+	background-color: black;
+	width: 100%;
+	height: 100px;
+	padding: 5px;
+	float: left;
+
+}
